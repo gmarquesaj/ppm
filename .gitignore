@@ -1,0 +1,15 @@
+*.ppm
+*.png
+*.mp4
+*.o
+*.swp
+*.import
+teste
+teste.cpp
+pg
+*.txt
+.vscode
+*.exe
+*.a
+*.vim
+Makefile
